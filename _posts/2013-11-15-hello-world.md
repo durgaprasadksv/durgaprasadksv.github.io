@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Hello!
 categories: [introduction]
 tags: [hello]
@@ -16,4 +16,4 @@ I love contributing to open source. Here is a list of my GitHub projects.
 I am also interested in Competitive Programming. Here is a link to my Hacker Rank profile.     
 
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">My Resume</a>
+<a class="btn btn-default" href="">My Resume</a>
