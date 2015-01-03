@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: Hello!
+categories: [introduction]
+tags: [hello]
 fullview: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+My name is **dp** (durga prasad). I'm a Masters student at Carnegie Mellon University. I am passionate about 
+Software systems, Cloud computing, Big Data and Web Applications. I am also passionate about Music and experiment
+creating music only using touch devices (ipad and the likes). 
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
-  
-### dbyll is on GitHub
+I love contributing to open source. Here is a list of my GitHub projects. 
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+
+I am also interested in Competitive Programming. Here is a link to my Hacker Rank profile.     
+
+
+<a class="btn btn-default" href="https://github.com/dbtek/dbyll">My Resume</a>
